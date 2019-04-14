@@ -80,9 +80,14 @@ body{
 
 @media screen and (max-width: 650px) {
 
+.contenedor{
+    justify-content: flex-start;
+}
+
 .titulo{
     width: 90%;
-    font-size: 40px;
+    font-size: 35px;
+    margin-top: 40px;
 }
 
 .imagen{
